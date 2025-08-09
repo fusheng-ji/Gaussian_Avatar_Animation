@@ -1,0 +1,1 @@
+python train.py -s data/training_data -m ./training_log/
